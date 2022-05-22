@@ -1,0 +1,18 @@
+body
+{
+    font-family: 'Brush Script ', cursive;
+    background-color: #333;
+    text-align: center;
+}
+#gameBoard{
+    border: 5px solid;
+    background-color: #fff;
+    box-shadow: 5px 6px 10px #111;
+}
+#scoreText{
+    font-size: 100px;
+}
+#resetBtn{
+    font-size: 22px;
+    border-radius: 15px;
+}
